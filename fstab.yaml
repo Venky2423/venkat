@@ -1,2 +1,5 @@
 mountpoints:
-  /: https://drive.google.com/drive/u/0/folders/1aQ0vhc64gtqAaHklPzhlj9t6VfU7HmUF
+  /:
+    url: https://author-p10652-e203356-cmstg.adobeaemcloud.com/
+    type: "markup"
+    suffix: ".md.html?wcmmode=disabled"
